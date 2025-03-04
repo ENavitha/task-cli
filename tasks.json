@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Buy groceries and cook dinner",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "name": "read a book",
+    "status": "todo"
+  },
+  {
+    "id": 3,
+    "name": "write a book",
+    "status": "in-progress"
+  }
+]
